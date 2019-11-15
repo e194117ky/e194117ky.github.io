@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: cornflowerblue;
+    text-align: center;
+    background-color: dimgray;
+}
+
+table{
+    background-color:dodgerblue;
+}
+
+ol{
+    background-image: url(../images/images5.jpeg)
+}
+
+body{
+    background-image: url(../images/images2.jpeg);
+}
