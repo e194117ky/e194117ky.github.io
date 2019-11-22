@@ -1,0 +1,27 @@
+h1{
+   text-align: center; 
+}
+h1#shumi{
+    color: blue;
+    background-color: black;
+}
+h1#link{
+    color: green;
+    background-color: cadetblue;
+}
+
+h2{
+    text-align: center;
+}
+h2#anime1{
+    color: red;
+    background-color:darkslateblue
+}
+h2#anime2{
+    color: cornflowerblue;
+    background-color: darkblue;
+}
+
+body{
+    background-image: url(../images/images5.jpeg);
+}
