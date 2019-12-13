@@ -1,0 +1,62 @@
+div.title{
+    background-color: blue;
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+div.mannaka{
+    width: 1000px;
+    height: 320px;
+    margin-bottom: 20px;
+    font-size: 0;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 320px;
+    margin-right: 50px;
+}
+
+div.menu1{
+    background-color: red;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+div.images{
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    height: 320px;
+}
+
+div.image{
+    background-color:blueviolet;
+    width: 700px;
+    height: 300px;
+    font-size: 20px;
+}
+
+div.article{
+    background-color: aqua;
+    width: 700px;
+    height: 20px;
+    font-size: 15px;
+}
+
+div.footer{
+    background-color: orange;
+    width: 1000px;
+    height: 40px;text-align: right;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
